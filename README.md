@@ -9,16 +9,16 @@ The analysis is built around a structured data model incorporating detailed loan
 
 ## A. Core Financial & Distribution Measures
 1. Total Funded Amount: The cumulative principal amount distributed across all active and paid-off loans.
-1.1 Insights Provided: Portfolio size and capital exposure.
+   Insights Provided: Portfolio size and capital exposure.
 
 2. Total Received Amount: The cumulative payments (principal + interest) collected to date.
-2.1 Insights Provided: Cash flow and return tracking.
+   Insights Provided: Cash flow and return tracking.
 
 3. Average Interest Rate (APR): The average interest rate, weighted by the loan amount.
-3.1 Insights Provided: Profitability and competitive pricing analysis.
+   Insights Provided: Profitability and competitive pricing analysis.
 
 4. Average Monthly Installment: The average required monthly payment across the portfolio.
-4.1 Insights Provided: Cash flow prediction and affordability assessment.
+   Insights Provided: Cash flow prediction and affordability assessment.
 
 ## B. Risk and Performance Measures
 1. Good Loans vs. Bad Loans: A classification based on loan status: Good Loans are 'Fully Paid' or 'Current'. Bad Loans are 'Charged Off' or 'Default'.
