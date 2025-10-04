@@ -4,6 +4,16 @@
 This project features a dynamic Bank Loan Performance and Risk Analysis Dashboard (Power BI Template, .pbit) designed for financial and risk management. 
 It enables real-time monitoring of the lending portfolio, focuses on financial health and working of the bank, capital exposure, and important risk indicators to improve decision-making and resolve the loss making aspects.
 
+### Objective of the project
+1. The primary objective of the project was Credit Risk Assessment i.e. to optimize the lending strategy.
+2. Specially by distinguishing between Good Loan (Fully Paid and Current) Amount and Bad Loan (Charged Off) Amount.
+
+### Key Findings
+1. Good Loan are above 86% and the Bad Loans (NPAs) are 14%.
+2. Most Loans were taken for Debt Consolidations i.e. more then 47% of Total Loan Applicants and also has high Bad Loan about 16%.
+3. Small Businesses had Highest Bad Loan about 25% ,followed by Renewable Energy at 18%.
+4. Applicants with Avg DTI above 20% have high Bad Loans.
+
 ### Dashboard Views
 Financial Overview 💵: Top-level metrics on funded vs. received amounts, weighted APR, and overall portfolio distribution.
 
